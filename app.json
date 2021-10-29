@@ -22,7 +22,7 @@
     },
     "FORGE_CALLBACK_URL": {
       "description": "Callback URL of your Forge app, required for 3-legged OAuth",
-      "value": "https://pruebaccforge.azurewebsites.net"
+      "value": "http://localhost:3000/api/forge/callback/oauth"
     }
   },
   "website": "https://bim360xls-exporter.herokuapp.com/",
