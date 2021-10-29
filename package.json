@@ -1,13 +1,13 @@
 {
   "name": "extract.data.sample",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Platforms](https://img.shields.io/badge/platform-Windows|MacOS-lightgray.svg) [![License](http://img.shields.io/:license-MIT-blue.svg)](http://opensource.org/licenses/MIT)",
   "dependencies": {
     "body-parser": "1.18.3",
     "bootstrap": "3.4.1",
     "chart.js": "^3.5.1",
     "cookie-parser": "1.4.3",
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "express-session": "1.15.6",
     "forge-apis": "0.4.3",
     "jquery": "^3.5.1",
@@ -26,5 +26,7 @@
     "nodemon": "nodemon start.js --ignore www/"
   },
   "author": "Michale Beale (Forge Partner Development)",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "start.js",
+  "devDependencies": {}
 }
